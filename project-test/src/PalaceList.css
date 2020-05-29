@@ -1,0 +1,66 @@
+.wrapper{
+    background-color: rgb(243, 240, 235);
+}
+
+.title-PalaceList{
+    padding-top: 120px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+header p {
+    color: #999;
+    font-size: 1.25em;
+    position: relative;
+    margin-top: -1.25em;
+    margin-bottom: 2.25em;
+    font-weight: 500;
+}
+
+header.major {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+
+header.major h2 {
+    font-size: 2.25em;
+    margin-bottom: 50px;
+    font-weight: 700;
+}
+
+header.major p {
+    position: relative;
+    border-top: solid 1px #e0e0e0;
+    padding: 1em 0 0 0;
+    margin: 0;
+    top: -1em;
+    font-size: 1.5em;
+    letter-spacing: -0.025em;
+}
+
+.card-body p {
+    font-weight: 500;
+}
+.modal-body-title{
+    margin-bottom: 80px;
+}
+
+.tiny-footer {
+    font-size: 14px;
+    padding: 14px 0px;
+    margin-top: 100px;
+    font-weight: 600;
+    background-color: #222324;
+    border-top: 1px solid #152e3d;
+    color: #fff;
+    line-height: 1;
+}
+.tiny-footer p{
+    margin-top: 10px;
+}
+#googleMap, #googleMap2, #googleMap3, #googleMap4,#googleMap5, #googleMap6 {
+    width: 520px;
+    height: 400px;
+}

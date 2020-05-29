@@ -1,0 +1,46 @@
+.wrapper.style2 {
+    background-color: #fff;
+}
+
+header p {
+    color: #999;
+    font-size: 1.25em;
+    position: relative;
+    margin-top: -1.25em;
+    margin-bottom: 2.25em;
+    font-weight: 500;
+}
+
+header.major {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+
+header.major h2 {
+    font-size: 2.25em;
+    margin-bottom: 50px;
+    font-weight: 700;
+}
+
+header.major p {
+    position: relative;
+    border-top: solid 1px #e0e0e0;
+    padding: 1em 0 0 0;
+    margin: 0;
+    top: -1em;
+    font-size: 1.5em;
+    letter-spacing: -0.025em;
+}
+.chart-img {
+    width: 900px;
+    height: 600px;
+    margin-left: 80px;
+}
+.chart p{
+    text-align: center;
+    font-weight: 500;
+    font-size: 15pt;
+    margin-bottom: 100px;
+}
